@@ -17,6 +17,7 @@ void WifiConnect() {
     delay(500);
     Serial.print(".");
   }
+   printWiFiStatus();
 }
 
 //Set broadcast to local broadcast ip e.g. 192.168.0.255
@@ -28,7 +29,7 @@ void setBroadcastIP() {
   
 void connectMDNS() {
   if (MDNS.begin(MDNS_NAME)) {
-    Serial.printf("MDNS-Responder gestartet: %s.\n", MDNS_NAME);
+    Serial.printf("\nMDNS-Responder gestartet: %s.\n", MDNS_NAME);
   }
 }
 
@@ -123,7 +124,7 @@ void Loop_Wifi() {
 
 
   if (WiFi.status() != WL_CONNECTED) {
-    Serial.println("");
+    Serial.println();
     Serial.print("WIFI-Connection Lost. re-Connecting .");
     WifiConnect();
   }
