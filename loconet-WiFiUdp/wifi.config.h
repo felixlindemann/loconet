@@ -1,24 +1,12 @@
 #pragma once
 
+IPAddress ipBroad; // Required for locoNET
+int wifiaddr;      // last octet of current IP-Adress
 /*
   https://docs.arduino.cc/libraries/wifi
   https://docs.arduino.cc/retired/library-examples/wifi-library/ConnectWithWPA
 */
 
-
-
-// Used for Connect and ReConnect
-void WifiConnect() {
-
-  WiFi.mode(WIFI_STA);
-  Serial.printf("Attempting to connect to WPA SSID: %s .", MYSSID);
-  WiFi.begin(MYSSID, MYSSID_PASSWORD);
-  while (WiFi.status() != WL_CONNECTED) {
-    delay(500);
-    Serial.print(".");
-  }
-   printWiFiStatus();
-}
 
 //Set broadcast to local broadcast ip e.g. 192.168.0.255
 void setBroadcastIP() {
@@ -26,7 +14,7 @@ void setBroadcastIP() {
   wifiaddr = ipBroad[3];
   ipBroad[3] = 255;
 }
-  
+
 void connectMDNS() {
   if (MDNS.begin(MDNS_NAME)) {
     Serial.printf("\nMDNS-Responder gestartet: %s.\n", MDNS_NAME);
@@ -41,20 +29,20 @@ void printIP() {
 }
 // print your MAC address:
 void printMAC() {
-  byte mac[6];
-  WiFi.macAddress(mac);
+  byte macAdress[6];
+  WiFi.macAddress(macAdress);
   Serial.print("WiFi-MAC address: ");
-  Serial.print(mac[5], HEX);
+  Serial.print(macAdress[5], HEX);
   Serial.print(":");
-  Serial.print(mac[4], HEX);
+  Serial.print(macAdress[4], HEX);
   Serial.print(":");
-  Serial.print(mac[3], HEX);
+  Serial.print(macAdress[3], HEX);
   Serial.print(":");
-  Serial.print(mac[2], HEX);
+  Serial.print(macAdress[2], HEX);
   Serial.print(":");
-  Serial.print(mac[1], HEX);
+  Serial.print(macAdress[1], HEX);
   Serial.print(":");
-  Serial.println(mac[0], HEX);
+  Serial.println(macAdress[0], HEX);
 }
 
 // print the SSID of the network you're attached to:
@@ -85,23 +73,40 @@ void printBSSID() {
 void printRSSI() {
   long rssi = WiFi.RSSI();
   Serial.print("signal strength (RSSI):");
-  Serial.println(rssi);
-}  
+  Serial.print(rssi);
+
+  Serial.println(" dB");
+}
 
 
 void printWiFiStatus() {
-  printMAC();
   if (WiFi.status() == WL_CONNECTED) {
     printSSID();
-    printRSSI(); 
+    printRSSI();
     printIP();
     printBSSID();
- 
   }
 
   if (WiFi.status() != WL_CONNECTED) {
     Serial.println("--------------- WiFi NOT Connected --------------");
   }
+}
+
+
+// Used for Connect and ReConnect
+void WifiConnect() {
+
+  WiFi.mode(WIFI_STA);
+
+  printMAC();
+  Serial.printf("Attempting to connect to WPA SSID: %s .", MYSSID);
+  WiFi.begin(MYSSID, MYSSID_PASSWORD);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(500);
+    Serial.print(".");
+  }
+  Serial.println(" OK.");
+  printWiFiStatus();
 }
 
 
@@ -114,11 +119,11 @@ void Setup_Wifi() {
     while (true)
       ;  // Stop here, if no WiFi Shield is present.
   }
- 
+
   WifiConnect();
   connectMDNS();
 }
- 
+
 //re-connect wifi if not connected
 void Loop_Wifi() {
 
