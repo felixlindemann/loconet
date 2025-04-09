@@ -1,4 +1,5 @@
-#include "esp32-hal-gpio.h"
+
+ 
 
 /*
   https://docs.arduino.cc/language-reference/en/functions/wifi/udp/
@@ -60,13 +61,14 @@ void locoNet9(uint8_t *RECMsg) {
 
      
     for (int i = 0; i < 6; i++) { 
-        digitalWrite(ledPins[i], ledPins[i] ==22? HIGH: LOW);
-      }  
-    delay(100);
+       if (!(value & (1 << i))) {
+        MCPSetLED(adresse + i , false);
+      }  }
+    delay(200);
 
     for (int i = 0; i < 6; i++) {
       if (value & (1 << i)) {
-        digitalWrite(ledPins[i],  ledPins[i] ==22?LOW: HIGH);
+        MCPSetLED(adresse + i , true);
       }  
     }
   }

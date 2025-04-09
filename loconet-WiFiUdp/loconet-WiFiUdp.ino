@@ -1,14 +1,20 @@
 
 #include <WiFi.h>
 #include <WiFiClient.h>
-#include <ESPmDNS.h>
-
+#include <ESPmDNS.h> c
+ #include <Adafruit_MCP23X17.h>
+#include <SPI.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
 
 #include "secrets.h";    // SSID and Key
 #include "config.h";     // other Config
 #include "OPC.h";        // OPC COnstant definition
 #include "variables.h";  // global variables
 #include "SV.h";         // Storeable Variables
+#include "MCP23S17.config.h";  // Wifi COnfig
+#include "display.config.h";  // Wifi COnfig
 
 #include "helper.h";       // Functions
 #include "wifi.config.h";  // Wifi COnfig
@@ -24,18 +30,9 @@ void setup() {
   }
   Setup_Wifi();
   Setup_UDP();
- 
-  for(int i =0; i<   LEDCOUNT; i++){
-     pinMode(ledPins[i], OUTPUT);
-     digitalWrite(ledPins[i], HIGH);
-     delay(1000);
-  }
-
-  
-  for(int i =0; i<   LEDCOUNT; i++){
-     digitalWrite(ledPins[i], LOW);
-     delay(1000);
-  }
+  i2cSetup();
+  SetupMCP23S17();
+   
 }
 
 void loop() {
@@ -56,5 +53,6 @@ void loop() {
     default:
       break;
   }
+  i2cLoop();
   delay(1);
 }
