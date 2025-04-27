@@ -21,6 +21,12 @@ uint8_t CommandData (uint8_t *RECMsg) {
  return (Data);
 }
 
+uint16_t AddrFull(uint8_t HI, uint8_t LO) {
+  uint16_t FullAddress;
+  FullAddress = 128 * (HI & 0x0F) + LO;
+  return (FullAddress);
+}
+
 uint16_t CommandFor (uint8_t *RECMsg) {
    uint16_t Address;
    Address= 255;

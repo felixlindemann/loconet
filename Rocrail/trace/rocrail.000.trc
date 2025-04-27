@@ -1,0 +1,126 @@
+---------------------------------------------------
+ RRRRRR                                      lll   
+ RRR  RRR                                iii lll   
+ RRR  RRR                                    lll   
+ RRRRRR    ooooo   ccccc rrrrrr   aaaaaa iii lll   
+ RRR RRR  ooo ooo ccc    rrr rrr aaa aaa iii lll   
+ RRR  RRR ooo ooo ccc    rrr     aaa aaa iii lll   
+ RRR  RRR  ooooo   ccccc rrr      aaaaaa iii  lll  
+---------------------------------------------------
+ TM and Copyright 2002-2025 Robert Jan Versluis.
+ All Rights Reserved.
+   r.j.versluis@rocrail.net
+   https://wiki.rocrail.net
+---------------------------------------------------
+ SupportKey expires in 186 days. [29-10-2025]
+---------------------------------------------------
+ Rocrail Pro 2.1.5595 [REGULAR]:[Mar  6 2025]
+---------------------------------------------------
+ processid = 14499
+        ip = 10.10.78.101
+       pwd = /Users/felixlindemann/repos.nosync/loconet/Rocrail
+      args = OCmdLn: key=-l value=/Applications/Rocrail.app/Contents/MacOS/../Frameworks, key=-w value=/Users/felixlindemann/repos.nosync/loconet/Rocrail, key=-lic value=/Users/felixlindemann/rocrail/lic.dat, 
+--------------------------------------------------
+20250426.100958.441 r9999W main     ORoute   2924 route [[bk6+]-[bk4+]] is locked; the server has been stopped during running in automatic mode
+20250426.105144.740 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.105147.105 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.105148.717 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.105214.945 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.105215.954 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105303.353 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105304.164 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105304.987 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105305.323 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105305.499 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105410.690 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
+20250426.105548.752 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105950.683 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105951.290 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105952.204 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105952.640 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.105952.896 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.110137.966 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
+20250426.110542.847 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.110545.207 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.110547.266 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.110548.701 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.110715.758 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
+20250426.110725.181 r9999W 127.0.0. OSwitch  1724 switch [sw8] with delay=50 rejecting command because another is pending: lastcmd=306964 ticks=307007
+20250426.110803.174 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.110804.520 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.110805.783 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.110806.560 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.110808.040 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.110808.787 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.111411.126 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.111411.380 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.111510.988 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.111512.279 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.111513.181 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.111514.093 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.111802.627 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
+20250426.111839.848 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
+20250426.111857.868 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.111858.788 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.111929.620 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
+20250426.112055.469 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112058.645 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112059.808 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112100.987 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112128.866 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112129.216 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112129.448 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112129.683 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112130.493 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112130.984 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112436.982 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.112437.923 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.112437.978 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.112438.187 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.112650.093 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.112652.546 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.112705.819 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112706.715 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.112709.012 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.112709.554 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.112808.937 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.112814.735 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.112821.677 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112823.396 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.112823.646 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.112904.531 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112905.510 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112905.697 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.112906.432 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.112906.762 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.112943.140 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
+20250426.113052.963 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
+20250426.113054.343 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
+20250426.113105.337 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113107.460 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.113115.483 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1on]
+20250426.113119.538 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113123.959 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113126.326 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113152.519 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113154.023 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113158.515 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113213.115 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113213.338 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113214.567 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113216.425 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113216.643 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113218.137 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113219.452 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113219.981 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113220.798 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113220.995 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113221.551 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113224.534 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113225.171 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113242.019 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113242.978 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113243.321 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113247.849 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113250.483 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
+20250426.113356.766 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline

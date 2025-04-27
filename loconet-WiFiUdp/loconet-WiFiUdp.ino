@@ -1,20 +1,19 @@
 
 #include <WiFi.h>
 #include <WiFiClient.h>
-#include <ESPmDNS.h> c
+#include <ESPmDNS.h> 
  #include <Adafruit_MCP23X17.h>
-#include <SPI.h>
-#include <Wire.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
+#include <SPI.h> 
+#include <EEPROM.h>
+#include <map>
+#include <stdint.h>
 
 #include "secrets.h";    // SSID and Key
 #include "config.h";     // other Config
+#include "variables.h";  // global variables 
 #include "OPC.h";        // OPC COnstant definition
-#include "variables.h";  // global variables
-#include "SV.h";         // Storeable Variables
 #include "MCP23S17.config.h";  // Wifi COnfig
-#include "display.config.h";  // Wifi COnfig
+// #include "display.config.h";  // Wifi COnfig
 
 #include "helper.h";       // Functions
 #include "wifi.config.h";  // Wifi COnfig
@@ -29,13 +28,13 @@ void setup() {
     ;  // wait for serial port to connect. Needed for native USB port only
   }
   Setup_Wifi();
-  Setup_UDP();
-  i2cSetup();
+  Setup_UDP(); 
   SetupMCP23S17();
    
 }
 
 void loop() {
+  LoopTimer = micros();
   // Check if WiFi Connection was lost
   Loop_Wifi();
   UDPFetch();  //have we recieved data??
@@ -52,7 +51,6 @@ void loop() {
     case 16:
     default:
       break;
-  }
-  i2cLoop();
+  } 
   delay(1);
 }

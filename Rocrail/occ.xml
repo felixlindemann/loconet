@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modocc>
+  <occ bkid="bk1" arrivetime="1745677132" lcid="" auto="false" closed="false" placing="0" blockenterside="0"/>
+  <occ bkid="bk2" arrivetime="1745677083" lcid="" auto="false" closed="false" placing="0" blockenterside="0"/>
+  <occ bkid="bk3" arrivetime="1745264944" lcid="" auto="false" closed="true" placing="0" blockenterside="0"/>
+  <occ bkid="bk4" arrivetime="1745677132" lcid="" auto="false" closed="false" placing="0" blockenterside="0"/>
+  <occ bkid="bk5" arrivetime="1745677132" lcid="" auto="false" closed="false" placing="0" blockenterside="0"/>
+  <occ bkid="bk6" arrivetime="1745677132" lcid="" auto="false" closed="false" placing="0" blockenterside="0"/>
+</modocc>

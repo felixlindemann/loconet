@@ -1,10 +1,15 @@
 #define csPinMcp1 5
 #define csPinMcp2 32
+#define csPinMcp3 33
+#define csPinMcp4 34
 
 Adafruit_MCP23X17 mcp1;  // für CS Pin 10
 Adafruit_MCP23X17 mcp2;  // für CS Pin 9
 
 void SetupMCP23S17(){
+
+
+
   if (!mcp1.begin_SPI(csPinMcp1)) {
     Serial.println("Fehler beim Initialisieren von MCP1");
     while (1);

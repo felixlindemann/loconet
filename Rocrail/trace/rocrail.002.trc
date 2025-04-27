@@ -1,0 +1,104 @@
+---------------------------------------------------
+ RRRRRR                                      lll   
+ RRR  RRR                                iii lll   
+ RRR  RRR                                    lll   
+ RRRRRR    ooooo   ccccc rrrrrr   aaaaaa iii lll   
+ RRR RRR  ooo ooo ccc    rrr rrr aaa aaa iii lll   
+ RRR  RRR ooo ooo ccc    rrr     aaa aaa iii lll   
+ RRR  RRR  ooooo   ccccc rrr      aaaaaa iii  lll  
+---------------------------------------------------
+ TM and Copyright 2002-2025 Robert Jan Versluis.
+ All Rights Reserved.
+   r.j.versluis@rocrail.net
+   https://wiki.rocrail.net
+---------------------------------------------------
+ SupportKey expires in 186 days. [29-10-2025]
+---------------------------------------------------
+ Rocrail Pro 2.1.5595 [REGULAR]:[Mar  6 2025]
+---------------------------------------------------
+ processid = 2717
+        ip = 10.10.78.101
+       pwd = /Users/felixlindemann/repos.nosync/loconet/Rocrail
+      args = OCmdLn: key=-l value=/Applications/Rocrail.app/Contents/MacOS/../Frameworks, key=-w value=/Users/felixlindemann/repos.nosync/loconet/Rocrail, key=-lic value=/Users/felixlindemann/rocrail/lic.dat, 
+--------------------------------------------------
+20250426.173406.401 r9999W 127.0.0. OSwitch  1724 switch [sw9] with delay=50 rejecting command because another is pending: lastcmd=282 ticks=331
+20250426.173407.958 r9999W 127.0.0. OSwitch  1724 switch [sw9] with delay=50 rejecting command because another is pending: lastcmd=427 ticks=471
+20250426.173439.100 r9999W tid0x6BF OSwitch  1724 switch [sw8] with delay=50 rejecting command because another is pending: lastcmd=3201 ticks=3250
+20250426.173448.189 r9999W 127.0.0. OSwitch  1724 switch [sw9] with delay=50 rejecting command because another is pending: lastcmd=4017 ticks=4061
+20250426.173509.980 r9999W 127.0.0. OSwitch  1724 switch [sw15] with delay=50 rejecting command because another is pending: lastcmd=5971 ticks=6002
+20250426.173548.835 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173550.141 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173612.490 r9999W tid0x6CF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173613.438 r9999W tid0x6CF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173614.687 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173616.071 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173622.716 r9999W tid0x6CE OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173623.720 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173624.486 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173625.765 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173626.376 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173627.564 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173629.953 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173645.093 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173700.418 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173703.019 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173703.665 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173704.108 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173704.344 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173704.567 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173704.847 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173705.061 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173705.474 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173705.707 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173705.941 r9999W tid0x701 OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173706.182 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173706.466 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173706.739 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173707.926 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173708.362 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173708.547 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173709.851 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173711.873 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173713.346 r9999W tid0x702 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173713.542 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173713.730 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173713.941 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173714.146 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173714.339 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173714.528 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173714.743 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173715.977 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173718.188 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173719.505 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173720.478 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173721.349 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173722.785 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173724.601 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173725.460 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173726.033 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173726.360 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173726.576 r9999W tid0x6CF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173726.777 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173728.274 r9999W tid0x701 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173729.061 r9999W tid0x6CF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173730.725 r9999W tid0x6CD OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173732.813 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173733.960 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173745.765 r9999W tid0x6C9 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173747.360 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173749.362 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173752.032 r9999W tid0x6CF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173754.305 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173756.428 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173758.593 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173834.663 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173835.896 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173836.623 r9999W tid0x6CF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173837.216 r9999W tid0x6CC OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.173837.909 r9999W tid0x6CB OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173948.385 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune2off]
+20250426.173949.314 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune2on]
+20250426.173956.699 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.173957.656 r9999W tid0x704 OSwitch  1655 Switch [sw4]: position test [tune1on]
+20250426.174000.678 r9999W tid0x6BF OSwitch  1655 Switch [sw4]: position test [tune1off]
+20250426.174014.745 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline

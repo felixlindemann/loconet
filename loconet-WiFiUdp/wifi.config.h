@@ -2,6 +2,8 @@
 
 IPAddress ipBroad; // Required for locoNET
 int wifiaddr;      // last octet of current IP-Adress
+
+
 /*
   https://docs.arduino.cc/libraries/wifi
   https://docs.arduino.cc/retired/library-examples/wifi-library/ConnectWithWPA
@@ -96,6 +98,7 @@ void printWiFiStatus() {
 // Used for Connect and ReConnect
 void WifiConnect() {
 
+  
   WiFi.mode(WIFI_STA);
 
   printMAC();
