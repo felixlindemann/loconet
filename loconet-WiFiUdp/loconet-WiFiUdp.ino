@@ -23,10 +23,12 @@
 void setup() {
   Serial.begin(115200);
   LEDCOUNT =  sizeof(ledPins) / sizeof(int);
+ pinMode(BlueLed, OUTPUT);  //is also D4...
   while (!Serial) {
 
     ;  // wait for serial port to connect. Needed for native USB port only
   }
+  
   Setup_Wifi();
   Setup_UDP(); 
   SetupMCP23S17();

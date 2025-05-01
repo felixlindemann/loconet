@@ -134,8 +134,7 @@ const uint8_t opc_MASK = OPC_MASK;
                             "L=0 for input SENSOR now 0V (LO) , 1 for Input sensor >=+6V (HI) " \
                             " X =1, control bit , 0 is RESERVED for future!"
 #define OPC_RQ_SL_DATA_LABEL "send   OPC_SL_RD_DATA"
-
-#define OPC_WR_SL_DATA "0xEF ;WRITE SLOT DATA, 10 bytes YES LACK " \
+#define OPC_WR_SL_DATA_LABEL "0xEF ;WRITE SLOT DATA, 10 bytes YES LACK " \
                        ";<0xEF>,<0E>,<SLOT#>,<STAT>,<ADR>,<SPD>,<DIRF>,<TRK> " \
                        ";<SS2>,<ADR2>,<SND>,<ID1>,<ID2>,<CHK> " \
                        "; SLOT DATA WRITE, 10 bytes data /14 byte MSG"

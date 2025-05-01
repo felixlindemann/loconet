@@ -51,25 +51,7 @@ void printMAC() {
 void printSSID() {
   Serial.printf("connected to %s.\n", WiFi.SSID());
 }
-
-// print the MAC address of the router you're attached to:
-void printBSSID() {
-  byte bssid[6];
-  WiFi.BSSID(bssid);
-
-  Serial.print("MAC address of the router (BSSID): ");
-  Serial.print(bssid[5], HEX);
-  Serial.print(":");
-  Serial.print(bssid[4], HEX);
-  Serial.print(":");
-  Serial.print(bssid[3], HEX);
-  Serial.print(":");
-  Serial.print(bssid[2], HEX);
-  Serial.print(":");
-  Serial.print(bssid[1], HEX);
-  Serial.print(":");
-  Serial.println(bssid[0], HEX);
-}
+ 
 
 // print the received signal strength:
 void printRSSI() {
@@ -85,8 +67,7 @@ void printWiFiStatus() {
   if (WiFi.status() == WL_CONNECTED) {
     printSSID();
     printRSSI();
-    printIP();
-    printBSSID();
+    printIP(); 
   }
 
   if (WiFi.status() != WL_CONNECTED) {

@@ -158,13 +158,15 @@ void locoNet4(uint8_t *RECMsg) {
   }  //end of case statements
 }  // end len4 commands
 
+
+/*
 void Len14Commands(uint8_t *RECMsg) {
   uint16_t CVRequest;
   uint8_t CV_Data;
   if ((RECMsg[0] == OPC_WR_SL_DATA) & (RECMsg[2] == 0x7C)) {                //"Write PT slot data"   read write cv data.
                                                                             //if ((CommandFor(RECMsg)== MyLocoAddr)||(CommandFor(RECMsg)== MyLocoLAddr)||(CommandFor(RECMsg)== 0)) {  // ?? Full check of possibilities? May need to add a CV29  bit to select L and S addr messages..
     if ((CommandFor(RECMsg) == MyLocoAddr) || (CommandFor(RECMsg) == 0)) {  // Just short addres
-      digitalWrite(BlueLed, LOW);                                           /// turn On
+                                    /// turn On
       WaitUntill = millis() + 1000;
       CVRequest = (RECMsg[9] & 0x7F) + (128 * bitRead(RECMsg[8], 0)) + (256 * bitRead(RECMsg[8], 4)) + (512 * bitRead(RECMsg[8], 5));
       CV_Data = (RECMsg[10] & 0x7F) + (128 * bitRead(RECMsg[8], 1));
@@ -233,7 +235,8 @@ void Len14Commands(uint8_t *RECMsg) {
     }    //end our MyLocoAddr
   }      //end request cv data
 }  // endLen14Commands
-/**/
+*/
+
 
 void debugUDP() {
   Serial.println();
