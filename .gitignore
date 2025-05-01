@@ -32,3 +32,6 @@
 *.app
 loconet-WiFiUdp/secrets.h
 *.trc
+loconetUDP-WIFI/secrets.h
+*.bak
+*.trc

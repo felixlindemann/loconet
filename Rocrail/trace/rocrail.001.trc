@@ -1,328 +1,669 @@
----------------------------------------------------
- RRRRRR                                      lll   
- RRR  RRR                                iii lll   
- RRR  RRR                                    lll   
- RRRRRR    ooooo   ccccc rrrrrr   aaaaaa iii lll   
- RRR RRR  ooo ooo ccc    rrr rrr aaa aaa iii lll   
- RRR  RRR ooo ooo ccc    rrr     aaa aaa iii lll   
- RRR  RRR  ooooo   ccccc rrr      aaaaaa iii  lll  
----------------------------------------------------
- TM and Copyright 2002-2025 Robert Jan Versluis.
- All Rights Reserved.
-   r.j.versluis@rocrail.net
-   https://wiki.rocrail.net
----------------------------------------------------
- SupportKey expires in 186 days. [29-10-2025]
----------------------------------------------------
- Rocrail Pro 2.1.5595 [REGULAR]:[Mar  6 2025]
----------------------------------------------------
- processid = 859
-        ip = 10.10.78.101
-       pwd = /Users/felixlindemann/repos.nosync/loconet/Rocrail
-      args = OCmdLn: key=-l value=/Applications/Rocrail.app/Contents/MacOS/../Frameworks, key=-w value=/Users/felixlindemann/repos.nosync/loconet/Rocrail, key=-lic value=/Users/felixlindemann/rocrail/lic.dat, 
---------------------------------------------------
-20250426.113923.787 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114005.979 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114007.285 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114007.824 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114016.156 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114020.715 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
-20250426.114025.820 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114114.643 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114115.746 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114116.018 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114116.272 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114116.584 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114340.521 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114342.608 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114344.308 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
-20250426.114344.934 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
-20250426.114345.631 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2on]
-20250426.114346.759 r9999W 127.0.0. OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114435.306 r9999W tid0x6B3 OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114438.036 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114451.650 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114507.953 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114508.817 r9999W tid0x6B4 OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114517.141 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114517.878 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114518.726 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune2off]
-20250426.114520.154 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune2on]
-20250426.114520.713 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune2on]
-20250426.114520.932 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114521.129 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114606.218 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114607.144 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114612.458 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114612.749 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114615.071 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114616.794 r9999W tid0x6B3 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114617.897 r9999W tid0x678 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114620.614 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114621.914 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114623.885 r9999W tid0x679 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114625.547 r9999W tid0x678 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114627.740 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114628.307 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114629.239 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114629.954 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114630.297 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114630.685 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114631.595 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114633.658 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114646.006 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114653.338 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114720.609 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114721.346 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114722.069 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114722.709 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114723.040 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114723.255 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114723.485 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114723.890 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114724.279 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114724.742 r9999W tid0x6B3 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114725.703 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114734.312 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114736.018 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114739.948 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114740.560 r9999W tid0x6B3 OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114741.141 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114741.348 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114741.570 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114741.822 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114742.081 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114742.330 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114742.560 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114742.819 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114743.048 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114743.325 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114743.567 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114743.840 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114744.069 r9999W 127.0.0. OSwitch  2289 switch[sw8] command thread already started: reject command...
-20250426.114748.752 r9999W tid0x6B3 OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114750.063 r9999W tid0x6B0 OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114752.934 r9999W tid0x67B OSwitch  1655 Switch [sw8]: position test [tune1on]
-20250426.114754.234 r9999W tid0x67D OSwitch  1655 Switch [sw8]: position test [tune1off]
-20250426.114854.360 r9999W tid0x67D OSwitch  1655 Switch [sw2]: position test [tune1on]
-20250426.114901.917 r9999W tid0x67B OSwitch  1655 Switch [sw2]: position test [tune1off]
-20250426.114903.403 r9999W tid0x678 OSwitch  1655 Switch [sw2]: position test [tune1on]
-20250426.114904.162 r9999W tid0x67B OSwitch  1655 Switch [sw2]: position test [tune1off]
-20250426.114942.571 r9999W tid0x6B3 OSwitch  1655 Switch [sw3]: position test [tune1on]
-20250426.114943.658 r9999W tid0x67D OSwitch  1655 Switch [sw3]: position test [tune1on]
-20250426.114950.205 r9999W tid0x6B0 OSwitch  1655 Switch [sw3]: position test [tune1off]
-20250426.114958.641 r9999W tid0x6B0 OSwitch  1655 Switch [sw3]: position test [tune1on]
-20250426.115014.841 r9999W tid0x678 OSwitch  1655 Switch [sw3]: position test [tune1on]
-20250426.115016.218 r9999W tid0x67B OSwitch  1655 Switch [sw3]: position test [tune1off]
-20250426.115018.231 r9999W tid0x6B0 OSwitch  1655 Switch [sw3]: position test [tune1on]
-20250426.115019.417 r9999W tid0x67B OSwitch  1655 Switch [sw3]: position test [tune1off]
-20250426.115021.260 r9999W tid0x67B OSwitch  1655 Switch [sw3]: position test [tune1off]
-20250426.115049.514 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115053.687 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115054.787 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115055.652 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115056.956 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115100.388 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115101.876 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115104.372 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115105.461 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115108.162 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115117.524 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115118.377 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115118.663 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115118.876 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115119.316 r9999W tid0x6B4 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115119.539 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115119.741 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115119.976 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115120.186 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115120.370 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115120.556 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115120.768 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115120.986 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115121.206 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115121.406 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115121.616 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115121.844 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115122.059 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115122.285 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115122.499 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115122.711 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115122.912 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115123.129 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115123.373 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115123.691 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115123.899 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115124.119 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115124.320 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115125.039 r9999W tid0x678 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115125.811 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115126.315 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115126.535 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115126.725 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115126.919 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115127.119 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115127.311 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115127.515 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115127.726 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115127.943 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115128.130 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115128.972 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115129.222 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115129.417 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115131.280 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115131.766 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115131.967 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115132.147 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115132.353 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115132.573 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115132.790 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115133.038 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115133.231 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115133.440 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115133.644 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115134.340 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115134.596 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115134.832 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115135.049 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115135.288 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115135.546 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115135.848 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115136.680 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115137.280 r9999W tid0x678 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115137.494 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115137.707 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115138.214 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115138.453 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115138.688 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115138.910 r9999W tid0x678 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115139.126 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115139.351 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115139.596 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115139.866 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115140.253 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115141.557 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115142.818 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115143.907 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115144.499 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115145.191 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115145.772 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115146.455 r9999W tid0x6B4 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115147.035 r9999W tid0x6B4 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115147.689 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115148.003 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115148.617 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115149.021 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115149.910 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115150.492 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115151.813 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115152.863 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115153.465 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115157.168 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115158.384 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115158.835 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115159.092 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115159.337 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115159.598 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115201.196 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115203.530 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115205.491 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115229.110 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune2off]
-20250426.115234.397 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115235.515 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115236.880 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115238.648 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115246.069 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115247.281 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115248.890 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115253.491 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115255.065 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115306.766 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115307.662 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115307.876 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115310.900 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115312.097 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115328.813 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115329.935 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115330.688 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115344.705 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115345.503 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115346.280 r9999W tid0x678 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115346.837 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115347.579 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115348.302 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115348.848 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115351.222 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1off]
-20250426.115354.756 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115358.176 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115412.297 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115413.347 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115414.111 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.115414.933 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115415.839 r9999W tid0x67B OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115422.226 r9999W tid0x6B0 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.115449.605 r4445E wiodec   OWIO     2261 WIO 1 unexpected offline
-20250426.153800.378 r9999W 127.0.0. OSwitch  1724 switch [sw7] with delay=50 rejecting command because another is pending: lastcmd=153440 ticks=153486
-20250426.153805.494 r9999W 127.0.0. OSwitch  1724 switch [sw5] with delay=50 rejecting command because another is pending: lastcmd=153901 ticks=153943
-20250426.153820.828 r9999W 127.0.0. OSwitch  1724 switch [sw7] with delay=50 rejecting command because another is pending: lastcmd=155251 ticks=155292
-20250426.153825.741 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.153829.193 r9999W tid0x67B OSwitch  1724 switch [sw4] with delay=90 rejecting command because another is pending: lastcmd=155944 ticks=156024
-20250426.154042.188 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161307.034 r9999W tid0x67B OSwitch  1724 switch [sw4] with delay=90 rejecting command because another is pending: lastcmd=344374 ticks=344456
-20250426.161646.348 r9999s 127.0.0. OModel   2903 Auto mode is set to [ON]
-20250426.161646.348 r9999v 127.0.0. OModel   2913 Initialising all blocks...
-20250426.161646.351 r9999v 127.0.0. OModel   2919 Block initialising is ready.
-20250426.161658.273 r4004E Br103    OLcDrive 0103 Could not lock route "[bk1+]-[bk6-]", for "Br103"...
-20250426.161705.012 r9999v tid0x67B OBlock   1761 code matched: block=bk6 loco-code=[] code=[v200]
-20250426.161708.385 r9999v tid0x67B OBlock   1761 code matched: block=bk6 loco-code=[] code=[v200]
-20250426.161710.242 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[v200]
-20250426.161712.678 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[v200]
-20250426.161713.310 r9999v tid0x67B OBlock   1761 code matched: block=bk2 loco-code=[] code=[v200]
-20250426.161714.063 r9999v tid0x67B OBlock   1761 code matched: block=bk2 loco-code=[] code=[v200]
-20250426.161715.446 r9999v tid0x67B OBlock   1761 code matched: block=bk5 loco-code=[] code=[Br103]
-20250426.161718.072 r9999v tid0x67B OBlock   1761 code matched: block=bk5 loco-code=[] code=[Br103]
-20250426.161722.046 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[Br103]
-20250426.161723.930 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[Br103]
-20250426.161724.473 r9999v tid0x67B OBlock   1761 code matched: block=bk1 loco-code=[] code=[Br103]
-20250426.161725.101 r9999v tid0x67B OBlock   1761 code matched: block=bk1 loco-code=[] code=[Br103]
-20250426.161731.822 r9999v tid0x67B OBlock   1761 code matched: block=bk6 loco-code=[] code=[Br103]
-20250426.161734.286 r9999v tid0x67B OBlock   1761 code matched: block=bk6 loco-code=[] code=[Br103]
-20250426.161736.181 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[Br103]
-20250426.161738.592 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[Br103]
-20250426.161739.176 r9999v tid0x67B OBlock   1761 code matched: block=bk1 loco-code=[] code=[Br103]
-20250426.161739.840 r9999v tid0x67B OBlock   1761 code matched: block=bk1 loco-code=[] code=[Br103]
-20250426.161747.640 r9999v tid0x67B OBlock   1761 code matched: block=bk6 loco-code=[] code=[Br103]
-20250426.161750.191 r9999v tid0x67B OBlock   1761 code matched: block=bk6 loco-code=[] code=[Br103]
-20250426.161752.096 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[Br103]
-20250426.161754.531 r9999v tid0x67B OBlock   1761 code matched: block=bk4 loco-code=[] code=[Br103]
-20250426.161755.115 r9999v tid0x67B OBlock   1761 code matched: block=bk1 loco-code=[] code=[Br103]
-20250426.161755.763 r9999v tid0x67B OBlock   1761 code matched: block=bk1 loco-code=[] code=[Br103]
-20250426.161756.133 r9999W 10.37.12 OSwitch  1438 switch [sw3] is locked by [v200]: reject any commands from others
-20250426.161756.383 r9999W 10.37.12 OSwitch  1438 switch [sw3] is locked by [v200]: reject any commands from others
-20250426.161800.291 r9999v tid0x67B OBlock   1761 code matched: block=bk5 loco-code=[] code=[v200]
-20250426.161803.830 r9999v tid0x67B OBlock   1761 code matched: block=bk5 loco-code=[] code=[v200]
-20250426.161821.859 r9999s 127.0.0. OModel   2903 Auto mode is set to [OFF]
-20250426.161831.443 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161836.049 r9999W tid0x67B OSwitch  1724 switch [sw4] with delay=90 rejecting command because another is pending: lastcmd=374573 ticks=374656
-20250426.161838.097 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161839.874 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161852.921 r9999W 127.0.0. OModel   2222 Sending safety Power Off before Reset.
-20250426.161858.284 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161859.820 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161905.621 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161918.399 r9999W 127.0.0. OSwitch  1724 switch [sw7] with delay=50 rejecting command because another is pending: lastcmd=378448 ticks=378489
-20250426.161919.034 r9999W 127.0.0. OSwitch  1724 switch [sw7] with delay=50 rejecting command because another is pending: lastcmd=378517 ticks=378547
-20250426.161936.680 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.161943.768 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.165033.397 r9999W 127.0.0. OSwitch  2289 switch[sw4] command thread already started: reject command...
-20250426.165100.326 r9999W 127.0.0. OSwitch  1724 switch [sw6] with delay=50 rejecting command because another is pending: lastcmd=549053 ticks=549093
-20250426.171609.393 r9999W tid0x6B5 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.171610.160 r9999W tid0x678 OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.171612.160 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune1on]
-20250426.171620.079 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune2on]
-20250426.171621.346 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune2on]
-20250426.171622.240 r9999W tid0x6B3 OSwitch  1655 Switch [sw4]: position test [tune2on]
-20250426.171650.246 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune2on]
-20250426.171651.585 r9999W tid0x678 OSwitch  1655 Switch [sw4]: position test [tune2on]
-20250426.171652.388 r9999W tid0x67D OSwitch  1655 Switch [sw4]: position test [tune2on]
-20250426.172045.970 r9999E 10.10.78 OWIO     1400 device 1 says goodbye, battery=4% rssi=0
+20250501.163254.708 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.718 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.729 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.742 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.754 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.766 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.778 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.789 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.799 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.811 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.822 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.832 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.844 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.857 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.868 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.878 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.890 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.902 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.914 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.924 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.935 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.945 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.957 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.969 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.981 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163254.991 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.002 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.012 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.023 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.033 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.044 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.055 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.065 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.077 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.088 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.100 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.111 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.122 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.134 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.144 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.157 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.170 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.180 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.191 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.203 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.213 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.223 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.234 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.244 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.257 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.269 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.279 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.290 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.302 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.312 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.323 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.333 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.344 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.354 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.367 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.377 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.387 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.399 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.410 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.422 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.434 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.445 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.456 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.466 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.477 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.487 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.500 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.510 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.522 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.534 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.544 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.554 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.565 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.577 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.587 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.598 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.610 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.622 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.633 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.644 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.657 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.667 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.677 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.688 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.700 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.711 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.722 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.734 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.746 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.757 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.769 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.779 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.790 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.800 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.811 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.822 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.834 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.845 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.856 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.867 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.879 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.889 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.901 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.913 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.925 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.936 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.947 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.958 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.968 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.979 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163255.989 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.000 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.011 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.022 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.034 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.045 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.057 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.067 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.079 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.090 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.101 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.112 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.123 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.134 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.145 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.156 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.167 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.178 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.188 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.201 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.211 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.222 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.232 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.245 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.256 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.267 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.278 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.288 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.299 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.309 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.320 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.330 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.340 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.351 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.364 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.374 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.387 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.399 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.411 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.423 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.436 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.446 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.459 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.472 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.484 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.495 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.507 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.520 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.533 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.544 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.556 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.568 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.580 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.592 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.604 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.616 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.628 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.640 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.651 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.661 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.673 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.685 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.697 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.708 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.719 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.731 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.741 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.753 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.765 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.778 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.789 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.801 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.812 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.822 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.833 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.845 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.855 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.865 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.876 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.886 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.897 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.908 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.919 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.929 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.942 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.955 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.965 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.976 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.986 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163256.997 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.008 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.020 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.031 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.043 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.055 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.066 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.077 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.088 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.099 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.110 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.121 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.132 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.144 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.155 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.166 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.177 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.187 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.200 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.211 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.223 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.234 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.244 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.256 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.267 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.278 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.289 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.300 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.311 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.322 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.333 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.345 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.356 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.368 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.380 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.391 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.402 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.412 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.425 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.435 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.447 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.459 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.471 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.483 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.495 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.505 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.516 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.526 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.538 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.550 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.562 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.572 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.584 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.595 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.605 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.617 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.629 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.639 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.651 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.662 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.673 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.684 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.695 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.705 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.716 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.728 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.738 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.751 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.763 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.773 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.785 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.795 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.807 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.817 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.827 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.840 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.851 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.863 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.875 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.885 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.896 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.908 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.918 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.931 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.943 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.956 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.968 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.980 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163257.990 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.001 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.012 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.024 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.035 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.045 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.058 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.068 r8035E tcpdccpp OSocket  0797 recv() failed [errno=57] [Socket is not connected]
+20250501.163258.078 r9999W dccpprea OSocket  0685 cannot write to socket sh=0 errno=60...
+20250501.163258.091 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=64] [Host is down]
+20250501.163258.091 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163300.609 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=64] [Host is down]
+20250501.163300.610 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163303.125 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=64] [Host is down]
+20250501.163303.125 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163305.644 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=64] [Host is down]
+20250501.163305.645 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163423.166 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.163423.166 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163540.684 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.163540.684 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163658.194 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.163658.194 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163815.716 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.163815.716 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.163933.237 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.163933.237 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164050.756 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164050.756 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164208.275 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164208.275 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164325.796 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164325.796 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164443.318 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164443.318 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164600.837 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164600.837 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164718.358 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164718.358 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164835.881 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164835.881 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.164953.407 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.164953.407 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.165110.943 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.165110.944 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.165228.466 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.165228.466 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.165345.979 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.165345.979 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.165503.503 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.165503.503 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.165621.026 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.165621.026 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.165738.544 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.165738.544 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.165856.062 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.165856.062 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.170013.585 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.170013.585 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.170131.107 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.170131.107 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.170248.632 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.170248.632 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.170406.164 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.170406.165 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.170523.696 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.170523.696 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.170641.355 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.170641.355 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.173827.996 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.173827.997 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.173945.478 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.173945.478 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.174103.008 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.174103.008 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.174220.525 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.174220.525 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.174338.044 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.174338.044 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.174455.567 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.174455.567 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.174613.089 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.174613.089 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.174730.609 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.174730.609 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.174848.129 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.174848.129 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.175005.649 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.175005.650 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.175123.173 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.175123.173 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.175240.691 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.175240.692 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.181323.206 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.181323.206 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.181440.724 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.181440.724 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.181558.239 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.181558.239 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.181715.755 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.181715.756 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.181833.275 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.181833.275 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.181950.791 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.181950.791 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.182108.312 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.182108.312 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.182225.831 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.182225.831 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.182343.349 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.182343.349 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.182500.867 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.182500.868 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.182618.384 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.182618.384 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.182735.900 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.182735.900 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.182853.416 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.182853.416 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183010.934 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183010.934 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183128.452 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183128.452 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183245.977 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183245.978 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183403.494 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183403.494 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183521.039 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183521.039 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183638.555 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183638.555 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183756.070 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183756.071 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.183913.587 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.183913.587 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184031.104 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184031.104 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184148.624 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184148.624 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184306.145 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184306.146 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184423.659 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184423.659 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184541.181 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184541.181 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184658.698 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184658.698 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184816.221 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184816.221 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.184933.739 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.184933.739 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185051.259 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=60] [Operation timed out]
+20250501.185051.259 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185054.090 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185054.090 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185056.745 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185056.745 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185059.308 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185059.309 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185102.920 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185102.920 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185105.757 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185105.758 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185108.319 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185108.319 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185110.879 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185110.879 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185113.439 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185113.439 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185115.999 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185115.999 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185118.561 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185118.561 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185121.121 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185121.121 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185123.679 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185123.679 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185126.239 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185126.239 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185128.799 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185128.800 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185131.362 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185131.362 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185133.919 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185133.920 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185136.483 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185136.483 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185139.039 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185139.039 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185141.601 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185141.601 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185144.187 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185144.187 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185147.053 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185147.053 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185408.549 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185408.549 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185411.108 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185411.109 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185413.668 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185413.669 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185416.228 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185416.228 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185418.789 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185418.789 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185421.349 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185421.349 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185423.909 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185423.909 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185426.469 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185426.469 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185429.029 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185429.029 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185431.694 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185431.694 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185434.254 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185434.254 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185436.814 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185436.814 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185439.374 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185439.374 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185441.931 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185441.931 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185444.491 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185444.491 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185447.051 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185447.052 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185449.611 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185449.612 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185452.171 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185452.171 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185454.733 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185454.733 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185457.295 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185457.295 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185459.851 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185459.852 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185502.413 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185502.413 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185504.973 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185504.973 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185507.533 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185507.533 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185510.094 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185510.094 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185512.652 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185512.652 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185515.214 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185515.214 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185517.772 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185517.772 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185520.332 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185520.332 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185522.892 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185522.892 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185525.452 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185525.452 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185528.013 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185528.014 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185530.577 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185530.577 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185533.134 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185533.134 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185535.694 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185535.694 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185538.258 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185538.258 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185540.814 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185540.815 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185543.373 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185543.373 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185545.932 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185545.932 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185548.492 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185548.492 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185551.055 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185551.056 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185553.613 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185553.614 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185556.173 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185556.173 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185558.744 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185558.744 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185601.296 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185601.296 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185603.857 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185603.857 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185606.416 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185606.416 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185608.975 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185608.975 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185611.541 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185611.541 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185614.096 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185614.096 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185616.654 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185616.654 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185619.213 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185619.213 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185621.773 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185621.773 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185624.335 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185624.335 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185626.893 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185626.893 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185629.455 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185629.455 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185632.017 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185632.017 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185634.573 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185634.573 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185637.136 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185637.136 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185639.694 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185639.694 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185642.257 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185642.257 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185644.815 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185644.815 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185647.373 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185647.373 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185649.933 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185649.933 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185652.493 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185652.493 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185655.057 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185655.057 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185657.618 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185657.618 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185700.173 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185700.173 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185702.733 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185702.733 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185705.293 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185705.293 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185707.855 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185707.855 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185710.415 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185710.415 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185712.973 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185712.974 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185715.535 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185715.535 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185718.095 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185718.096 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185720.657 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185720.657 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185723.217 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185723.217 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185725.774 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185725.774 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185728.334 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185728.334 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185730.893 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185730.894 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185733.454 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185733.454 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185736.014 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185736.014 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185738.609 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185738.609 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185741.238 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185741.238 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185743.801 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185743.801 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185746.357 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185746.357 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185748.916 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185748.917 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185751.477 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185751.477 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185754.037 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185754.037 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185756.596 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185756.596 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...
+20250501.185759.157 r8020E tcpdccpp OSocket  0485 connect(10.10.78.136:2560) failed [errno=61] [Connection refused]
+20250501.185759.157 r9999W tcpdccpp ODCCPP   0036 unable to connect to 10.10.78.136:2560; check the network...

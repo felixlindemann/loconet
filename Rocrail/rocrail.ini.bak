@@ -2,8 +2,8 @@
 <rocrail planfile="plan.xml" occupancy="occ.xml" locs="" backup="true" maxbackup="100" backuppath="backup" keypath="lic.dat" libpath="." imgpath="images" iconpath="icons" issuepath="issues" soundpath="sounds" soundplayer="" soundplayerlocation="false" sounddoublequote="false" xmlscriptpath="." decpath="decspecs" ptiid="" ptenable="true" lciid="" dpiid="" sviid="" sciid="" fsutf8="true" scsensor="" createmodplan="false" resetspfx="false" aboxhome="abox" latitude="" longitude="" utc="0" poweroffonexit="true" poweronatinit="false" shutdownonexit="false" supportkey="" supportemail="">
   <ctrl sgevents="false" swtimeout="250" minbklc="20" ignevt="5" initfieldpause="500" savepostime="10" secondnextblock="false" initfieldpower="true" enableswfb="true" eventtimeout="0" eodtimeoutonidle="60" eodpoweroffdelay="0" signalreset="0" routeswtime="500" routetimeout="0" disablerouteVreduce="false" greenaspect="false" semaphorewait="1" signalwait="0" locostartgap="0" blockinitpause="0" stopnonecommuter="false" syncroutes="true" syncroutetimeout="2500" timedsensors="false" genunregsensor="false" enablerouter="true" ebreakforceunlock="false" defaspect="red" skipsetsw="false" skipsetsg="false" usebicom="true" useident="true" poweroffonidentmismatch="false" poweroffatghost="true" autooffatghost="false" ebreakatghost="false" keepghost="false" disablesteal="false" poweroffatreset="true" allowzerothrottleid="true" releaseonidle="false" closeonghost="false" closenoevents="false" selectshortestblock="false" locationprio="true" restoreschedule="true" restorereservations="true" actiontimer60="true" createguestonbidi="false" usebididir="false" usebididir4blockenterside="false" disablebididiratauto="true" disableblockwait4gomanual="false" stopatin4gomanual="true" v0atpoweron="false" useonlyfirstident="true" userandomrate="false" virtualtimer="2" calcvirtualtimer="false" redirecttomaster="true" weather="true" v0onebreak="false" timerevents="false" modeevents="true" signalevents="false" ctcevents="false" ctcoccprio="false" ctcblackfree="false" ctcDnD="false" checkdecoders="false" checkrestore="false" swapdest="false" resetscheduleonstop="true" usefinder="false" traceactions="false" generatebooster="false" enablebkpower="true" checkelectrified="true" linkanalogblocks="true" blockwait4schedules="true" maxrunning="0" locoExcludeLocations=""/>
   <trace byte="false" parse="false" meminfo="false" routing="false" rfile="rocrail" protpath="trace" nr="3" size="100" info="false" calc="true" find="false" permission="true" automatic="false" monitor="false"/>
-  <digint lib="virtual" iid="vcs-1" onthefly="false" stress="false" guid="0000ACDE480020250426113706664000" libpath="/Applications/Rocrail.app/Contents/MacOS/../Frameworks" supportkey="true"/>
-  <clock state="go" hour="17" minute="22" divider="1" update="1" semirealtime="false" stopclockatpoweroff="true" bri="255"/>
+  <digint lib="virtual" iid="vcs-1" onthefly="false" stress="false" guid="0000766FCD8920250501132257668000" libpath="/Applications/Rocrail.app/Contents/MacOS/../Frameworks" supportkey="true"/>
+  <clock state="go" hour="13" minute="23" divider="1" update="1" semirealtime="false" stopclockatpoweroff="true" bri="255"/>
   <r2rnet id="" addr="224.0.1.20" port="8051" localip="" routes="netroutes.xml" enable="true" wio="false" netroutes="false"/>
   <tcp port="8051" controlcode="" slavecode="" slavecode_power="true" slavecode_switches="false" slavecode_signals="false" slavecode_outputs="false" slavecode_routes="false" slavecode_locos="false" onlyfirstmaster="false" clienthostname="false" wiowd="true" wiotimeout="700" wiowd_exclude="" wiowdbreak="0" mdns="true" mdnsID="Rocrail" mqtthost="" mqttport="1883" mqttuserid="RocrailService" mqttpasswd="" mqttgrouping="false"/>
   <mdnslist>
@@ -19,7 +19,7 @@
     <mdnscs service="_z21._udp." lib="z21" defaultcs="true"/>
     <mdnscs service="_znf._tcp." lib="znf" defaultcs="false"/>
   </mdnslist>
-  <devices serial="/dev/tty.BLTH,/dev/tty.Bluetooth-Incoming-Port"/>
+  <devices serial="/dev/tty.BLTH,/dev/tty.Bluetooth-Incoming-Port,/dev/tty.usbserial-1440"/>
   <srcpcon port="4303" active="false" device=""/>
   <SnmpService port="161" active="false" traphost="localhost" trapport="0"/>
   <http port="8008" shortids="false">
@@ -27,11 +27,14 @@
   </http>
   <finder usepath="0" findalt="true" findaltdirect="false" maxpaths="20" maxrecursive="5" regularstops="true" tempschedules="true" checkperm="true" checkpermdest="false" avoidoccblocks="true" avoidoccroutes="true" uselocations="false" uselocation4destination="true" avoidtermblocks="false" updateschedules="true" reservetoblock="false" dirchange4commuter="false" startonlywithschedule="false" setblockexitside="true" skipmanualroutes="false"/>
   <cmdmaplist/>
-  <digint lib="loconet" iid="loconet01" device="" host="224.0.0.1" port="1235" localip="" swtime="250" bps="115200" flow="cts" ctsretry="1000" sublib="udp" fbmod="0" fastclock="true" absent="false" onthefly="false" stress="false" guid="0000ACDE480020250426113706664000" libpath="/Applications/Rocrail.app/Contents/MacOS/../Frameworks" supportkey="true">
+  <digint lib="loconet" iid="loconet01" device="" host="224.0.0.1" port="1235" localip="" swtime="250" bps="115200" flow="cts" ctsretry="1000" sublib="udp" fbmod="0" fastclock="true" absent="false" onthefly="false" stress="false" guid="0000766FCD8920250501132257668000" libpath="/Applications/Rocrail.app/Contents/MacOS/../Frameworks" supportkey="true">
     <loconet purgetime="200" reportaddr="1017" usefc="true" syncfc="false" GBM16xn="false" slotping="true" resetlissy="false" swack="false" swretry="10" swsleep="50" opcwait="16" echotimeout="100" cmdstn="">
       <options store="false" opsw="0000000000000000000000000000000000000000000000000000000000000000"/>
       <slotserver active="false" lconly="true" purge="true" stopatpurge="false" iid=""/>
     </loconet>
   </digint>
   <ctcpreset/>
+  <digint lib="dccpp" iid="NEW" device="" nrslots="12" purgetime="30" sensoroffdelay="0" timeout="1000" host="10.10.78.136" port="2560" systeminfo="true" echocommands="false" swapgates="false" bps="115200" flow="cts" sublib="tcp" onthefly="false" stress="false" guid="0000766FCD8920250501132257668000" libpath="/Applications/Rocrail.app/Contents/MacOS/../Frameworks" supportkey="true" sensorlist="true">
+    <dccpp join="false" acc4byte="false" dtr="0" rts="0"/>
+  </digint>
 </rocrail>
