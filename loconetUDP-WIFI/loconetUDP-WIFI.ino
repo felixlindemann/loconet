@@ -1,12 +1,18 @@
-#include <WiFi.h>
-#include <WiFiClient.h> 
-#include <ESPmDNS.h> 
 
+
+#include <WiFi.h>
+#include <WiFiClient.h>  
+#include <ESPmDNS.h>  
+#include <vector>
 
 #include "secrets.h";    // SSID and Key
 #include "config.h";     // other Config
-#include "variables.h";     // other Config
-#include "wifi.config.h";     // other Config
+#include "variables.h";     // global Variables
+#include "loconet.util.h";     // 
+
+#include "wifi.config.h";     // Connect to Wifi
+
+#include "tcp.server.h";     // Loconet TCP-Server.CONFIG 
 
 void setup() {
   // put your setup code here, to run once:
@@ -17,7 +23,7 @@ void setup() {
   }
   
   Setup_Wifi();
-
+setupTCPServer();
 }
 
 void loop() {
@@ -25,6 +31,6 @@ void loop() {
   LoopTimer = micros();
   // Check if WiFi Connection was lost
   Loop_Wifi();
-
+loopTCPServer();
 
 }
